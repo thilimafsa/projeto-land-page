@@ -51,23 +51,23 @@
     width: 450px;
     margin-left: 150px;
     margin-top: 45px;
+    margin-bottom: 45px;
 }
 
 #fundoformulario{
     background-color: black;
-    padding: 100px;
+    padding: 15px;
     
 }
 
 #titulo{
     color: white;
     text-align: center;
-    margin: 25px;
+    
 }
 
 #formulario{
-    align-items: center;
-    margin-left: 340px;
+    margin-left: 430px;
 }
 
 input{
