@@ -39,18 +39,15 @@
     columns: auto;
 }
 
-.textoimagem{
+#textoimagem{
     margin-top: 200px;
     width: 500px;
     margin-left: 60px;
 }
 
-.imagem{
-    width: 450px;
-    margin-left: 150px;
-    margin-top: 45px;
-    margin-bottom: 45px;
-}
+#imagem{
+    width: 300px;
+    margin: 50px 0px 50px 0px;
 
 #fundoformulario{
     background-color: black;
@@ -66,7 +63,7 @@
 }
 
 #formulario{
-    text-aling: center;
+   text-aling: center;
     background-color: #303030;
 }
 
